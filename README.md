@@ -1,0 +1,2 @@
+# -Handwritten-Digit-Recognition-using-KNN-algorithm
+The project aims to predict the handwritten digits from MNIST dataset by applying KNN algorithm. The desired results have been obtained by training the machine first using the MNIST_train data-set and later testing the obtained results using MNIST_test data-set , to recognise the handwritten digit. The accuracy of the model was calculated to be around 98%.
